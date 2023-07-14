@@ -3,7 +3,7 @@ Predicting sales of various products to understand the properties of products an
 
 # Files
 ## Notebooks
-Cleaning_Sales_Data.ipynb - Google Colab Notebook to clean the data found in sales_predicitons_2023.csv
+Prediction_of_Product_Sales.ipynb - Google Colab Notebook to clean the data found in sales_predicitons_2023.csv
 
 ## Spreadsheets
 sales_predictions_2023.csv - Initial data for project
